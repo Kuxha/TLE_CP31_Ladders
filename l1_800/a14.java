@@ -1,6 +1,6 @@
-//package TLE_Ladders.l1_800;//package TLE_Ladders.l1_800;//package TLE_Ladders.l1_800;
+package TLE_Ladders.l1_800;
+// Note : remove package for submission to codeforces
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class a14 {

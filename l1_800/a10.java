@@ -1,4 +1,5 @@
 package TLE_Ladders.l1_800;
+// Note : remove package for submission to codeforces
 import java.util.Scanner;
 
 public class a10 {
